@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TesiganG
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning Android Development
+- I am interested in Linux system adminitration, python, Windows server Administration and Cloud Computing.
 
 <!---
 TesiganG/TesiganG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
